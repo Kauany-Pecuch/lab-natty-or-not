@@ -1,5 +1,4 @@
-
-# Apresentação sobre Inteligencia Artificial 
+<h1 style="text-align: center;">Apresentação sobre Inteligencia Artificial </h1>
 
 ## 📒 Descrição
 Esta apresentação em PowerPoint, composta por 9 slides, tem como objetivo abordar o tema da Inteligência Artificial no âmbito da educação, mostrando exemplos, vantagens, desafios e o futuro das IAs na educação.
